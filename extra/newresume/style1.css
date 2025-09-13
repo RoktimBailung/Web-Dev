@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+p{
+    margin: 0px;
+}
+.first{
+    background-color: antiquewhite;
+    color: blue;
+    /* color: rgb(219, 32, 32);
+    border: 3px solid white;
+    margin-left: 20px;
+    text-align: center; */
+}
+.new{
+    background-color: antiquewhite;
+}

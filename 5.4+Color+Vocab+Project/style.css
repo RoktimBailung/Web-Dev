@@ -1,0 +1,23 @@
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#green{
+    color: green;
+}
+#orange{
+    color: orange;
+}
+#yellow{
+    color: yellow;
+}
+.color-title{
+    font-weight: normal;
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    height: 200px;
+    width: 200px;
+}

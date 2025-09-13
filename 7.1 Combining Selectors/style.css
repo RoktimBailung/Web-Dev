@@ -1,0 +1,17 @@
+/* Write your code here: */
+h1,h2{ /* group combination */      
+    color: blueviolet;
+}
+div>p{  /* child combination */
+    color: firebrick;
+}
+.list li{ /* descendent combination*/
+    color: blue;
+}
+li.done{    /*chaining combination*/
+    color: seagreen;
+}
+ul p.done { /*combination combination*/
+    font-size:10px;
+    font-family: 'Courier New', Courier, monospace;
+}
